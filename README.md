@@ -85,6 +85,9 @@ This is the general format, change the values of corresponding fields as your re
 $ python3 -m app
 ```
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sakerwork/tg-index)
+
+[![Deploy](https://camo.githubusercontent.com/e5e6709c8649e56791de9961f5a2a9f0b9b27fcf/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6f647973736575736d61782f74672d696e646578)](https://repl.it/github/sakerwork/tg-index)
 
 ## API
 
